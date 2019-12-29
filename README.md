@@ -35,11 +35,11 @@ The database contains following tables:
 
 # How to?
 
-`Test ETL implementation.ipynb` notebooks to test the whole ETL process 
-`create_tables.py`: script to create data tables in Redshift cluster
-`etl.py`: script to do ETL process 
-`sql_queries.py`: script storing sql queries used in `create_tables.py` and `etl.py`
-`config.cfg`: config file to store some meta data
+`Test ETL implementation.ipynb` notebooks to test the whole ETL process  
+`create_tables.py`: script to create data tables in Redshift cluster 
+`etl.py`: script to do ETL process   
+`sql_queries.py`: script storing sql queries used in `create_tables.py` and `etl.py`  
+`config.cfg`: config file to store some meta data  
 
 
 
